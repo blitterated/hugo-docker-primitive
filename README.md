@@ -7,7 +7,7 @@ docker build -t hugoblog .
 ### Run the image
 
 ```sh
-docker run -it --rm --init \
+docker run -it --rm  \
            -v "$(pwd)":/blog \
            -w /blog  --name hugo \
            -p 1313:1313 \
