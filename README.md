@@ -1,3 +1,5 @@
+## Deprecation in favor of [hugo-dde](https://github.com/blitterated/hugo-dde). Use that instead.
+
 ### Build an image
 
 ```sh
@@ -31,4 +33,3 @@ Switches explained:
 ```sh
 hugo new site blitblog
 ```
-
