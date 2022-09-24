@@ -1,4 +1,4 @@
-## Deprecation in favor of [hugo-dde](https://github.com/blitterated/hugo-dde). Use that instead.
+## Deprecated in favor of [hugo-dde](https://github.com/blitterated/hugo-dde). Use that instead.
 
 ### Build an image
 
